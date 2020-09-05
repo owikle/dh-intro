@@ -15,6 +15,12 @@ There is a [lack of consensus](https://whatisdigitalhumanities.com/){:target='_b
 
 ***
 
+So what does that make a digital humanist? 
+
+A person who use digital tools to explore humanities questions.
+
+***
+
 {% include figure.html img="tape-player.jpg" alt="tape player" width="75%" %}
 
 ***
@@ -50,9 +56,6 @@ There is a [lack of consensus](https://whatisdigitalhumanities.com/){:target='_b
 **[Digital Scholarship Symposium & CDIL Fellowships](https://cdil.lib.uidaho.edu/#fellowships){:target='_blank'}**
 - A week-long summer symposium exploring a wide variety of digital scholarship tools and methodologies.
 - The CDIL offers fellowships for faculty, grad students, and undergrads to attend and develop a digital project with CDIL librarians.
-
-**Open Educational Resources** 
-- [Integrated Music Theory Textbook](https://intmus.github.io/inttheory18-19/){:target='_blank'} (sponsored by one of the Library's [Think Open Fellowships](https://libguides.uidaho.edu/THINKOPEN))
 
 **[Library Workshops](https://www.lib.uidaho.edu/services/workshops/){:target='_blank'}**
 - Many DH-related workshops are held at the library throughout the semester. These workshops cover a variety of tools and methods that are relevant to digital scholarship.

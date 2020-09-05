@@ -3,11 +3,11 @@ title: Home
 layout: default
 ---
 
-# Music, Sound, & the Digital Humanities
+# Introduction to Digital Humanities
 
-{% include figure.html img="old-tech.jpg" alt="intro image here" caption="Photo by Felipe Belluco at https://unsplash.com/@felipebelluco" width="60%" %}
+{% include figure.html img="computer.jpg" alt="intro image here" width="80%" %}
 
-<p class="text-center">A site with resources for sonic digital humanities research.</p>
+<p class="text-center">Introducing topics in digital humanities.</p>
 
 {% include toc.html %}
 
