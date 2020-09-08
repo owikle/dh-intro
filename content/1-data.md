@@ -28,6 +28,8 @@ How do humanists think about data?
 "...imagine that someone called your family photograph album a dataset. It’s not inaccurate per se, but it suggests that this person just fundamentally doesn’t understand why you value this artifact. And it’s the same with humanists. With a source, like a film or a work of literature, you’re not extracting features in order to analyze them; you’re trying to dive into it, like a pool, and understand it from within."
 - See Miriam Posner, "[Humanities Data: A Necessary Contradiction](https://miriamposner.com/blog/humanities-data-a-necessary-contradiction/)," *Miriam Posner's Blog*, June 25, 2015.
 
+- [Example Metadata](https://drive.google.com/open?id=1x48Te3duPAxh53foEihQVKTfCKUjaCCbH7TrMMd_yU4){:target='_blank'}
+
 {% include figure.html img="metadata.png" alt="metadata spreadsheet" caption="Metadata spreadsheet" %}
 
 {% include figure.html img="objects.png" alt="digital objects" caption="Image files" %}

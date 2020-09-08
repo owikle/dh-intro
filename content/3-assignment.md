@@ -14,14 +14,17 @@ This is a famous project in Digital Humanities because it’s commonly regarded 
 
 Start thinking about not only the history of physical computing, but also the transformation of words into data and the invisible labor that all too often goes into data creation.
 
+---
+
 # In class:
 
-Explore one of the following DH projects and answer these questions:
+**Explore one of the following DH projects and answer these questions:**
 - What does this project communicate?
 - Who is its audience?
 - What types of data does this project use? (Think broadly and in humanities terms, beyond data being only numbers!)
+- What else would you like to know?
 
-Projects to choose from:
+**Projects to choose from:**
 - Willa Cather Archive: <https://cather.unl.edu/>
 - Navigating the Green Book: <http://publicdomain.nypl.org/greenbook-map/>
 - American Religious Sounds: <http://religioussounds.osu.edu/>
