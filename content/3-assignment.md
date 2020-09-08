@@ -11,8 +11,11 @@ In the end, the total word count was close to 11 million.
 This is a famous project in Digital Humanities because it’s commonly regarded as marking the beginning of computational humanities. 
 - Chapter: <https://dhdebates.gc.cuny.edu/read/untitled/section/1e57217b-f262-4f25-806b-4fcf1548beb5#ch06>.
 - Busa's "Index Thomisticus", translated for the web: <https://www.corpusthomisticum.org/it/index.age>
+- Data punch cards: <https://en.wikipedia.org/wiki/Punched_card>
 
 Start thinking about not only the history of physical computing, but also the transformation of words into data and the invisible labor that all too often goes into data creation.
+
+{% include figure.html img="punchcard.jpg" alt="data punch card" caption="Data Punch card" width="100%" %}
 
 ---
 
