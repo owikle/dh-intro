@@ -25,7 +25,7 @@ Start thinking about not only the history of physical computing, but also the tr
 - What does this project communicate?
 - Who is its audience?
 - What types of data does this project use? (Think broadly and in humanities terms, beyond data being only numbers!)
-- What else would you like to know?
+- What's missing from this story?
 
 **Projects to choose from:**
 - Willa Cather Archive: <https://cather.unl.edu/>
