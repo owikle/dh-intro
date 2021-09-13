@@ -1,7 +1,30 @@
 ---
-title: Assignment
-nav: true
+title: Extra information and notes
+nav: false
 ---
+
+#### File Type
+
+Generally, there is a distinction between two broad types of computer files: **text** or **binary**.
+
+{% capture filetype %}
+- **Text Files** contain only bytes that represent text characters organized in lines (e.g. `a`, `B`, space, tab, line breaks, etc.). They can be opened with a text editor to see the characters. For example, TXT, CSV, HTML, or MD files.
+- **Binary Files** contain bytes that are NOT text characters. They will require software (other than a text editor) that can correctly interpret the bytes. For example, a JPG image, MP3 sound file, or a ZIP compressed folder.
+
+Usually, when talking about text files when doing text analysis, we mean **plain text**: text files that contain only Unicode-encoded characters like `a`, `1`, `<`, `!`, etc. 
+Some characters might be “hidden” control characters, such as tabs and line breaks.
+
+{% endcapture %}
+<div class="row justify-content-center">{% include card.md text=filetype %}</div>
+
+Having text in this simple format enables it to be manipulated as data.
+
+---
+
+{% include figure.html img="ocr.jpg" alt="ocr" caption="OCR of microfilm scan" width="100%" %}
+
+---
+
 
 # Homework:
 
