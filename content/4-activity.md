@@ -133,8 +133,8 @@ Let's explore a larger set of texts. Using a text corpus of your choice, spend s
 Sample Corpora:
 - Your own writing
 - The Austen or Shakespeare corpora that Voyant provides
-- [Abraham Lincoln State of the Union Addresses]({ '/data/lincoln-addresses.zip' | relative_url })
-- [Barack Obama State of the Union Addresses]({ '/data/obama-addresses.zip' | relative_url })
+- [Abraham Lincoln State of the Union Addresses]({{ '/data/lincoln-addresses.zip' | relative_url }})
+- [Barack Obama State of the Union Addresses]({{ '/data/obama-addresses.zip' | relative_url }})
 {% endcapture %}
 {% include alert.md text=text color=secondary %}
 
