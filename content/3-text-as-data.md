@@ -1,5 +1,5 @@
 ---
-title: Text as Data
+title: Text
 nav: true
 ---
 
