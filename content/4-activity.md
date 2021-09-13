@@ -12,7 +12,7 @@ nav: true
     - Playing around with text (even if you don't know what you're doing) can be an effective way to gain a new perspective on the texts you study
 - To expand the audience for under-recognized texts
 {% endcapture %}
-{% include card.md text=text header="Why digital text analysis?" %}
+<div class="row justify-content-center">{% include card.md text=text header="Why digital text analysis?" %}</div>
 
 What questions do you want to answer by analyzing your text? 
 Whether you have a specific hypothesis in mind or your work is more exploratory, analyzing the frequency of words in your text can be a good place to start. 
