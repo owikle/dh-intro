@@ -44,7 +44,7 @@ Voyant Tools is a modular online tool set for visualizing one or many documents.
 ### Activity: Word Frequency in Thoreau's *Walden*
 
 1. Go to [Voyant Tools](https://voyant-tools.org/){:target='_blank' rel='noopener'}
-2. Copy and paste the <a href="https://owikle.github.io/dh-intro/data/walden.txt">text of *Walden*</a>{:target='_blank' rel='noopener'} into the text box on the Voyant Tools home screen
+2. Copy and paste the <a href="https://owikle.github.io/dh-intro/data/walden.txt">text of *Walden*</a>{:target='_blank' rel='noopener'} into the text box on the Voyant Tools home screen, OR download, extract, and upload this zipped file of [Abraham Lincoln State of the Union Addresses]({{ '/data/lincoln-addresses.zip' | relative_url }})
 3. After uploading your text, you should see a screen with three tool panels along the top and two tool panels along the bottom:
 
 {% include figure.html img="voyant-interface.jpg" alt="voyant interface" width="75%" %}
