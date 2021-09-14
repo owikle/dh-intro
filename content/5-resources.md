@@ -15,4 +15,6 @@ Contact me with any questions or project ideas!
 
 - [Programming Historian](http://programminghistorian.org/)
 
+- [Crafting Digital History](http://workbook.craftingdigitalhistory.ca/)
+
 - [Software Carpentry](https://software-carpentry.org/) 
