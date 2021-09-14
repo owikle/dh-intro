@@ -60,7 +60,7 @@ Depending on what you're going to do with your texts, you'll need to pay attenti
 (Of course, this also has the effect of skewing text research in DH so that it focuses more on older literary works.) 
 
 A good resource to use if you're wondering whether something is under copyright is Cornell University Library's [Copyright Information Center](https://copyright.cornell.edu/publicdomain){:target='_blank'}. 
-Currently, most works published before 1925 are in the public domain.
+Currently, most works published before 1926 are in the public domain.
 
 **Digitized Text**
 
